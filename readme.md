@@ -1,3 +1,3 @@
-#TRYING TO DO SOMETHING
+# TRYING TO DO SOMETHING
 
-Okay ler's see how it's working
+Okay let's see how it's working
